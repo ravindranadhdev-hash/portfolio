@@ -1,0 +1,103 @@
+inbio-ravindra/
+├── index.html
+├── assets/
+│   ├── css/
+│   │   ├── vendor/
+│   │   │   ├── bootstrap.min.css
+│   │   │   ├── slick.css
+│   │   │   ├── slick-theme.css
+│   │   │   ├── aos.css
+│   │   │   ├── feature.css  (This will contain the Feather icon font CSS)
+│   │   │   └── (other vendor CSS if any, based on original)
+│   │   └── style.css
+│   ├── js/
+│   │   ├── vendor/
+│   │   │   ├── jquery.js
+│   │   │   ├── modernizer.min.js
+│   │   │   ├── feather.min.js
+│   │   │   ├── slick.min.js
+│   │   │   ├── bootstrap.js
+│   │   │   ├── text-type.js
+│   │   │   ├── wow.js
+│   │   │   ├── aos.js
+│   │   │   ├── particles.js  (If used, but not explicitly seen in this code, so optional)
+│   │   │   └── jquery-one-page-nav.js
+│   │   └── main.js
+│   ├── images/
+│   │   ├── favicon.ico
+│   │   ├── logo/
+│   │   │   ├── logo-dark.png
+│   │   │   └── logos-circle.png
+│   │   ├── icons/
+│   │   │   ├── icons-01.png
+│   │   │   ├── icons-02.png
+│   │   │   ├── icons-03.png
+│   │   │   ├── rating.png
+│   │   │   ├── quote.png
+│   │   │   ├── quote2.png
+│   │   │   ├── short-arrow-left.png
+│   │   │   ├── short-arrow-right.png
+│   │   │   ├── shape1.svg
+│   │   │   └── arrow-icon.png
+│   │   ├── testimonial/
+│   │   │   ├── final-home--1st.png
+│   │   │   ├── final-home--2nd.png
+│   │   │   ├── final-home--3rd.png
+│   │   │   ├── final-home--4th.png
+│   │   │   └── final-home--5th.png
+│   │   ├── client/
+│   │   │   └── png/
+│   │   │       ├── brand-01.png
+│   │   │       ├── brand-02.png
+│   │   │       ├── brand-03.png
+│   │   │       ├── brand-04.png
+│   │   │       └── brand-05.png
+│   │   ├── contact/
+│   │   │   └── contact1.png
+│   │   ├── demo/
+│   │   │   ├── main-demo.png
+│   │   │   ├── index-technician.png
+│   │   │   ├── home-model-v2.png
+│   │   │   ├── home-consulting.png
+│   │   │   ├── fashion-designer.png
+│   │   │   ├── developer.png
+│   │   │   ├── instructor-fitness.png
+│   │   │   ├── home-model.png
+│   │   │   ├── home-video.png
+│   │   │   ├── text-rotet.png
+│   │   │   ├── index-boxed.png
+│   │   │   ├── home-sticky.png
+│   │   │   ├── index-bg-image.png
+│   │   │   ├── front-end.png
+│   │   │   ├── coming-soon.png
+│   │   │   ├── main-demo-white-version.png
+│   │   │   ├── index-technician-white-version.png
+│   │   │   ├── home-model-v2-white.png
+│   │   │   ├── home-consulting-white-version.png
+│   │   │   ├── fashion-designer-white-version.png
+│   │   │   ├── developer-white-version.png
+│   │   │   ├── instructor-fitness-white-version.png
+│   │   │   ├── home-model-white-version.png
+│   │   │   ├── home-video-white-version.png
+│   │   │   ├── text-rotet-white-version.png
+│   │   │   ├── index-boxed-white-version.png
+│   │   │   ├── home-sticky-white-version.png
+│   │   │   ├── index-bg-image-white-version.png
+│   │   │   └── front-end-white-version.png
+│   │   ├── blog/
+│   │   │   └── blog-big-01.jpg
+│   │   ├── portfolio/
+│   │   │   └── portfolio-04.jpg
+│   │   └── (Your custom profile images for hero/portfolio/blog, refer to the image names in the HTML)
+│           ├── image-from-rawpixel-id-16404000-png.png  (Your main profile image)
+│           ├── a-fiverr-gig-image-featuring-a-clean-tec_GwIlPHkqQT2daF3sjXXE2Q_T_-MqOu0QTiRA61cGDpbYg.jpeg (Portfolio img 1)
+│           ├── a-fiverr-gig-image-showcasing-a-laravel-_hCjYxUGuSYqYv53kHSDGIg_T_-MqOu0QTiRA61cGDpbYg.jpeg (Portfolio img 2)
+│           ├── a-fiverr-gig-image-showcasing-a-laravel-_IhqrtjhcSm-cHiPsEM3MeA_e1ba3KV1T--cwdxIueWlQA.jpeg (Portfolio img 3 & 4)
+│           ├── a-fiverr-gig-image-showcasing-a-laravel-_pKR9wyczR72zTooWblFnCg_T_-MqOu0QTiRA61cGDpbYg.jpeg (Portfolio img 5)
+│           ├── a-fiverr-gig-image-showcasing-a-laravel-_PTTlTLPHQ6Ogs2_qV2Pq2Q_e1ba3KV1T--cwdxIueWlQA.jpeg (Portfolio img 6)
+│           ├── ChatGPT Image Jul 21, 2025 at 12_56_46 PM.png (Blog img 1)
+│           └── a-fiverr-gig-image-showcasing-a-laravel-_t60JJQlqQgWIFpU6KNIvXg_e1ba3KV1T--cwdxIueWlQA.jpeg (Blog img 2 & 3)
+└── fonts/
+    └── Feather.ttf
+    └── Feather.woff
+    └── Feather.svg
